@@ -1,8 +1,6 @@
 # devourIt
-https://sapuzzo27.github.io/devourIt/
-https://devourit-hw.herokuapp.com/burgers
 
-[]!( https://github.com/SApuzzo27/devourIt/blob/main/main/img/burgerpage.png ) 
+
 # Node Express Handlebars
 
 ### Overview
