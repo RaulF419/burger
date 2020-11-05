@@ -1,5 +1,5 @@
 {
-  "name": "burger",
+  "name": "burger-heroku",
   "version": "1.0.0",
   "description": "### Overview",
   "main": "server.js",
@@ -12,15 +12,12 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RaulF419/burger/issues"
-  },
-  "homepage": "https://github.com/RaulF419/burger#readme",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^5.2.0",
     "inquirer": "^7.3.3",
     "mysql": "^2.18.1",
     "mysql2": "^2.2.5"
-  }
+  },
+  "devDependencies": {}
 }
